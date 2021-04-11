@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://linyaya.fun/sitemap.xml
